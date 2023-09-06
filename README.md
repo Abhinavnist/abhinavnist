@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **c++,c,webdevelopment**
+- 🌱 I’m currently learning **c++, Fullstack Webdevelopment**
 
 - 👨‍💻 All of my projects are available at [https://abhinavnist.github.io/cv/](https://abhinavnist.github.io/cv/)
 
