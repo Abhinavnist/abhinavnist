@@ -83,7 +83,7 @@
 <br clear="both">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavnist&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinav" /> </p>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhinavnist&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=abhinavnist&theme=dracula&hide_border=false&border_radius=5&mode=daily" height="150" alt="GitHub Streak Stats" />
 </div>
 
 
