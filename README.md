@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Abhinav Kumar and I'm a Full Stack Developer & Gen AI Developer</h2>
+<h2 align="center">Hi 👋! My name is Abhinav Kumar and I'm a Full Stack Developer</h2>
 
 ###
 
